@@ -1,15 +1,19 @@
 [
   {
-       "video_url": "https://github.com/sumit2607/API/raw/master/VideoDummyApi/data/adobe.mp4"
+    "video_url": "https://github.com/sumit2607/API/raw/master/VideoDummyApi/data/adobe.mp4",
+    "image_url": "https://github.com/sumit2607/API/raw/master/VideoDummyApi/data/img1.png"
   },
   {
-    "video_url": "https://github.com/sumit2607/API/raw/master/VideoDummyApi/data/rent.mkv"
+    "video_url": "https://github.com/sumit2607/API/raw/master/VideoDummyApi/data/rent.mkv",
+    "image_url": "https://github.com/sumit2607/API/raw/master/VideoDummyApi/data/img1.png"
   },
   {
-    "video_url": "https://github.com/sumit2607/API/raw/master/VideoDummyApi/data/graduate.mp4"
+    "video_url": "https://github.com/sumit2607/API/raw/master/VideoDummyApi/data/graduate.mp4",
+    "image_url": "https://github.com/sumit2607/API/raw/master/VideoDummyApi/data/img1.png"
   },
   {
-    "video_url": "https://github.com/sumit2607/API/raw/master/VideoDummyApi/data/zaan.6___CJBenwPj-vB___.mp4"
+    "video_url": "https://github.com/sumit2607/API/raw/master/VideoDummyApi/data/zaan.6___CJBenwPj-vB___.mp4",
+    "image_url": "https://github.com/sumit2607/API/raw/master/VideoDummyApi/data/img1.png"
   },
   {
     "video_url": "https://github.com/sumit2607/API/raw/master/VideoDummyApi/data/simcard.mp4"

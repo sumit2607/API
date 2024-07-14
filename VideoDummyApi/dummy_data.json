@@ -10,7 +10,7 @@
         "story_photo": "https://github.com/sumit2607/API/raw/master/VideoDummyApi/data/rent.mkv"
       },
       {
-        "story_photo": "https://github.com/sumit2607/API/raw/master/VideoDummyApi/data/graduate.mp4"
+        "video_url": "https://github.com/sumit2607/API/raw/master/VideoDummyApi/data/simcard.mp4"
       }
     ]
   },

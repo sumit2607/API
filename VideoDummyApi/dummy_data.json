@@ -4,13 +4,13 @@
     "image_url": "https://github.com/sumit2607/API/raw/master/VideoDummyApi/data/img5.png",
     "storydata": [
       {
-        "story_photo": "https://github.com/sumit2607/API/raw/master/VideoDummyApi/data/video1.mp4"
+        "story_photo": "https://github.com/sumit2607/API/raw/master/VideoDummyApi/data/adobe.mp4"
       },
       {
-        "story_photo": "https://github.com/sumit2607/API/raw/master/VideoDummyApi/data/video2.mp4"
+        "story_photo": "https://github.com/sumit2607/API/raw/master/VideoDummyApi/data/rent.mkv"
       },
       {
-        "story_photo": "https://github.com/sumit2607/API/raw/master/VideoDummyApi/data/video3.mp4"
+        "story_photo": "https://github.com/sumit2607/API/raw/master/VideoDummyApi/data/graduate.mp4"
       }
     ]
   },

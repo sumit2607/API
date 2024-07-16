@@ -39,14 +39,15 @@
      "user_name": "Suraj Kumar",
      "storydata": [
       {
-        "story_photo": "https://github.com/sumit2607/API/raw/master/VideoDummyApi/data/adobe.mp4"
+       "story_photo": "https://github.com/sumit2607/API/raw/master/VideoDummyApi/data/img5.png"
       },
       {
-        "story_photo": "https://github.com/sumit2607/API/raw/master/VideoDummyApi/data/rent.mkv"
+        "story_photo": "https://github.com/sumit2607/API/raw/master/VideoDummyApi/data/img5.png"
       },
       {
-        "story_photo": "https://github.com/sumit2607/API/raw/master/VideoDummyApi/data/graduate.mp4"
+        "story_photo": "https://github.com/sumit2607/API/raw/master/VideoDummyApi/data/img5.png"
       }
+      
     ]
   },
   {
@@ -55,14 +56,15 @@
     "user_name": "Rahul Kumar",
      "storydata": [
       {
-        "story_photo": "https://github.com/sumit2607/API/raw/master/VideoDummyApi/data/adobe.mp4"
+       "story_photo": "https://github.com/sumit2607/API/raw/master/VideoDummyApi/data/img5.png"
       },
       {
-        "story_photo": "https://github.com/sumit2607/API/raw/master/VideoDummyApi/data/rent.mkv"
+        "story_photo": "https://github.com/sumit2607/API/raw/master/VideoDummyApi/data/img5.png"
       },
       {
-        "story_photo": "https://github.com/sumit2607/API/raw/master/VideoDummyApi/data/graduate.mp4"
+        "story_photo": "https://github.com/sumit2607/API/raw/master/VideoDummyApi/data/img5.png"
       }
+      
     ]
   },
   {
@@ -71,30 +73,32 @@
      "user_name": "Amit Kumar",
     "storydata": [
       {
-        "story_photo": "https://github.com/sumit2607/API/raw/master/VideoDummyApi/data/adobe.mp4"
+       "story_photo": "https://github.com/sumit2607/API/raw/master/VideoDummyApi/data/img5.png"
       },
       {
-        "story_photo": "https://github.com/sumit2607/API/raw/master/VideoDummyApi/data/rent.mkv"
+        "story_photo": "https://github.com/sumit2607/API/raw/master/VideoDummyApi/data/img5.png"
       },
       {
-        "story_photo": "https://github.com/sumit2607/API/raw/master/VideoDummyApi/data/graduate.mp4"
+        "story_photo": "https://github.com/sumit2607/API/raw/master/VideoDummyApi/data/img5.png"
       }
+      
     ]
   },
   {
     "video_url": "https://github.com/sumit2607/API/raw/master/VideoDummyApi/data/chau_codes___CJEc2MPgeMN___.mp4",
     "image_url": "https://github.com/sumit2607/API/raw/master/VideoDummyApi/data/img5.png",
      "user_name": "Kamal Kumar",
-    "storydata": [
+   "storydata": [
       {
-        "story_photo": "https://github.com/sumit2607/API/raw/master/VideoDummyApi/data/adobe.mp4"
+       "story_photo": "https://github.com/sumit2607/API/raw/master/VideoDummyApi/data/img5.png"
       },
       {
-        "story_photo": "https://github.com/sumit2607/API/raw/master/VideoDummyApi/data/rent.mkv"
+        "story_photo": "https://github.com/sumit2607/API/raw/master/VideoDummyApi/data/img5.png"
       },
       {
-        "story_photo": "https://github.com/sumit2607/API/raw/master/VideoDummyApi/data/graduate.mp4"
+        "story_photo": "https://github.com/sumit2607/API/raw/master/VideoDummyApi/data/img5.png"
       }
+      
     ]
   },
   {
